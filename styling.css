@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(89, 141, 187);
+}
+
+.container{
+    margin-top: 1%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 5%;
+    
+    padding: 3%;
+  text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px ;
+    box-shadow: 4px 3px 5px 6px rgb(110, 165, 202);
+   font-family: Georgia, 'Times New Roman', Times, serif;
+flex-direction: row;
+}
+p{
+    font-size: 15px;
+    font-weight: 600;
+}
+input{
+    text-align: center;
+    padding: 1.5%;
+    border-radius: 10px;
+    font-size: 16px;
+}
+.subbtn{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 2%;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: rgb(35, 135, 230);
+}
+.age{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+input{
+    width: 50px;
+}
